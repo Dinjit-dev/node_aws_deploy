@@ -1,0 +1,16 @@
+{
+  "name": "node-aws-deploy",
+  "version": "1.0.0",
+  "description": "aws deploy using ci/cd",
+  "main": "sever.js",
+  "scripts": {
+    "start":"node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
